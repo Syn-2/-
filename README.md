@@ -2,5 +2,5 @@
 ### 🚀 A passionate backend developer from Taiwan
 ## 🧠 About Me
 - 🎓 Studying at Chang Jung Christian University (CJCU)
-- 🌱 Currently learning: Docker / System Design
-- 🤝 Looking to collaborate on Open Source Projects
+- 💬 Ask me about game
+- 📫 How to reach me 114b06201@mailst.cjcu.edu.tw
